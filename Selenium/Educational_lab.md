@@ -1,6 +1,6 @@
 # Selenium Preparation Guide
 
-## Begnnier Guide
+## Resources
 - [Video 1](https://www.youtube.com/watch?v=Xjv1sY630Uc&list=PLzMcBGfZo4-n40rB1XaJ0ak1bemvlqumQ)
 - [Video 2](https://www.youtube.com/watch?v=j7VZsCCnptM&t=309s)
 - [Video 3](https://www.youtube.com/watch?v=dam0GPOAvVI)
